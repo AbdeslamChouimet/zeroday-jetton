@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo.png" alt="ZeroDay Logo" width="150"/>
+  <img src="./ZeroDay (ZD) logo.png" alt="ZeroDay Logo" width="150"/>
 </p>
 # ZeroDay (ZD) 👾
 
