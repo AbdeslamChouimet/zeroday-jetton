@@ -1,4 +1,4 @@
-# ZeroDay (ZD) 💀
+# ZeroDay (ZD) 👾
 
 **ZeroDay (ZD)** is a decentralized Jetton built on the **TON blockchain**, crafted for the cybersecurity and ethical hacking community.  
 It empowers researchers, white-hat hackers, and IT professionals through a tokenized reward system for vulnerability discovery and defense contributions.
