@@ -1,6 +1,7 @@
 <p align="center">
   <img src="./ZeroDay (Zd) logo.png" alt="ZeroDay Logo" width="150"/>
 </p>
+
 # ZeroDay (ZD) 👾
 
 **ZeroDay (ZD)** is a decentralized Jetton built on the **TON blockchain**, crafted for the cybersecurity and ethical hacking community.  
